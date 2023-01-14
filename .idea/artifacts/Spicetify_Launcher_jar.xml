@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Spicetify-Launcher:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Spicetify-Launcher.jar">
+      <element id="module-output" name="Spicetify-Launcher" />
+    </root>
+  </artifact>
+</component>
