@@ -15,5 +15,5 @@ public class Upgrade {
                 throw new RuntimeException(e);
             }
         }
-        }
+    }
 }
